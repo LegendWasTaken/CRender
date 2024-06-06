@@ -143,6 +143,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Use the [community discord](https://discord.gg/ZjrRyKXpWg) for any questions or concerns that you may have (Replies will generally be faster there).
 <br/>
-(Also, if you submit bugs / features via discord, you'll get paid a $5 bounty for your contribution!)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
